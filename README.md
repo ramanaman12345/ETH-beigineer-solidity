@@ -1,4 +1,4 @@
-# Assessment// SPDX-License-Identifier: MIT
+# Assessment// ETH begineer solidity
 pragma solidity 0.8.18;
 
 /*
