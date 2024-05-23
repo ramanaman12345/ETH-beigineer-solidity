@@ -3,13 +3,13 @@
 
 pragma solidity 0.8.18;
 
-contract burn and mint {
+contract burnandmint_raman {
 
     // declaring the state variables
     // these are linked with the smart contract
     string public tokenName = "burn and mint ";
     string public tokenAbbr = "VST";
-    uint public totalSupply = 196069;
+    uint public totalSupply = 1960;
 
     // balance mapping
     mapping(address => uint) public balances;
